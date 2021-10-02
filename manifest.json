@@ -1,11 +1,11 @@
 {
-    "name": "profile_app_v3",
-    "short_name": "profile_app_v3",
+    "name": "tour_website",
+    "short_name": "tour_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
